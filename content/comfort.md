@@ -10,7 +10,7 @@ The ease and comfort with which engineers and related disciplines can do their j
 
 A healthy engineering culture must be able to define and observe specific ingredients targeted solely at the comfort of the individuals responsible for creating the product.
 
-With the individuals being the real judges of their own comfort, regularly seeking their perception and opinion of their comfort with the way the team functions is key. _Anything_ that an individual identifies as a source of discomfort on the job is a direct threat to their wellbeing, and thus, the way the product is built.
+With the individuals being the real judges of their own comfort, regularly seeking their perception and opinion of their comfort with the way the team functions is key. _Anything_ that an individual identifies as a source of discomfort on the job is a direct threat to their wellbeing and thus, the way the product is built.
 
 Reducing or eliminating the friction experienced by the engineering organization in the course of generating the product must be addressed on an ongoing basis.
 It is **crucial** that the engineers be allowed to drive this conversation, instead of management making assumptions first. 
