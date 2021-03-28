@@ -1,4 +1,8 @@
 # Engineering Comfort
+
+## TL;DR: Give your engineers ownership of the way your product is built
+
+
 The engineering organization must be able to prioritize and clearly outline the ingredients that are relevant to achieving the comfort of the individuals creating the product. Removing obstacles to delivery – both tangible and intangible – is a key ingredient to maintaining a healthy engineering culture.
 
 ## “Happy developer, happy life”
