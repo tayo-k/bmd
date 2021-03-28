@@ -1,4 +1,4 @@
-Better Managed Development
+Better Managed Development - A Framework for Engineering Culture
 ===========================
 
 ## TL;DR
@@ -100,9 +100,9 @@ This responsibility will be executed along distinct, observable and measurable g
 
 ## Guardrails of Engineering Culture
 
-1. ### [Build](/content/build.md)
+1. ### [Build](bmd/content/build.md)
    ###### This guardrail addresses patterns and structures that safeguard how the product is built and delivered
-2. ### [Grow](/content/grow.md)
+2. ### [Grow](bmd/content/grow.md)
    ###### This guardrail addresses patterns and standards that support the growth of individuals and teams in the engineering organization
-3. ### [Partner](/content/partner.md)
+3. ### [Partner](bmd/content/partner.md)
    ###### This guardrail addresses the expectations and philosophy that influences the relationship that an engineering organization has with other organizations in the enterprise.
