@@ -85,7 +85,7 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
  	
 - We believe that engineering culture involves more than just software engineering; the relationship between engineering and the product organization business; the relationship between the engineering and the agile process; the relationship between engineering and senior management – all of these are facets relevant to a healthy engineering culture.
 
-#### Safeguarding Engineering Culture Should Be a Distinct Responsibility
+## Safeguarding Engineering Culture Should Be a Distinct Responsibility
 Scrum masters safeguard agile principles in the process of engineering. 
 
 Project managers safeguard project management principles in the course of delivering the product. 
@@ -100,9 +100,9 @@ This responsibility will be executed along distinct, observable and measurable g
 
 ## Guardrails of Engineering Culture
 
-1. ### [Build](bmd/content/build.md)
+1. ### [Build](/content/build.md)
    ###### This guardrail addresses patterns and structures that safeguard how the product is built and delivered
-2. ### [Grow](bmd/content/grow.md)
+2. ### [Grow](/content/grow.md)
    ###### This guardrail addresses patterns and standards that support the growth of individuals and teams in the engineering organization
-3. ### [Partner](bmd/content/partner.md)
+3. ### [Partner](/content/partner.md)
    ###### This guardrail addresses the expectations and philosophy that influences the relationship that an engineering organization has with other organizations in the enterprise.
