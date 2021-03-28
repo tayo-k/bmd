@@ -1,4 +1,7 @@
 # Grow
+
+### TL;DR: Prioritize and measure the sustainable growth of your individuals and teams
+
 The healthy engineering engineering organization prioritizes the growth of its individuals and teams. Beyond the broad strokes of what the larger company offers, it’s necessary to standardize the foundation on which individuals, their managers and their teams can build a growth strategy. 
 
 Being able to clearly define the organizational focus and approach to individual personal and professional growth is also a useful recruiting tool: as an engineering manager, you want to attract talent that seeks to grow; and as such, be able to clearly describe the structure within which your organization will support the potential hire’s growth. 
