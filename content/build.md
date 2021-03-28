@@ -1,6 +1,8 @@
 Build
 =====
 
+### TL;DR: Prioritize and measure managing risk in your product and process
+
 The primary function of an engineering organization is to create their product. There are a lot of roles and titled individuals involved in that process, but there is a fixed set of ingredients that go into the creation of a product.
 
 Additionally, there are specific stages that the product passes through to become a final product. The death of the Waterfall model of development and subsequent rise of Agile has led to demise of the stage-wise thinking of the development of technological products. 
@@ -30,8 +32,9 @@ An ideal representation of all the ingredients that go into a product will see m
 
 Having this structure, ingredients and stages, an engineering culture should prioritize the following goals.
 
- ### 1.[De-risking](derisk.md)
- ### 2.[Engineer Comfort](comfort.md)
+ 1.[De-risking](derisk.md)
+ 
+ 2.[Engineer Comfort](comfort.md)
 
 
 ### Measurement
