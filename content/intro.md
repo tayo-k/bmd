@@ -9,6 +9,7 @@ Better Managed Development
 4. Prioritize and measure the sustainable growth of your individuals and teams
 5. Prioritize and sustain transparency, expectations and boundaries with your partners
 ***
+
 The industry has decided on standards and frameworks to describe and define the ways software products should be built. 
 
 There is no shortage of frameworks that determine how employees should be “managed”. 
