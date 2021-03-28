@@ -105,6 +105,6 @@ This responsibility will be executed along distinct, observable and measurable g
 1. ### [Build](/content/build.md)
    #### This guardrail addresses patterns and structures that safeguard how the product is built and delivered
 2. ### [Grow](/content/grow.md)
-   #### This guardrail addresses patterns and standards that support the growth of individuals and teams in the engineering organization
+   #### This guardrail addresses patterns and standards that guide the growth and support of individuals and teams in the engineering organization
 3. ### [Partner](/content/partner.md)
    #### This guardrail addresses the expectations and philosophy that influences the relationship that an engineering organization has with other organizations in the enterprise.
