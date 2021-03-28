@@ -1,7 +1,6 @@
 # De-risking
 
-##### TL;DR: 
-Focus on building fault tolerance into the people, product and processes
+### TL;DR: Give your engineers ownership of the way your product is built
 
 The engineering organization must be able to clearly outline – in the grid or elsewhere – the specific ingredients that are relevant to mitigating risk along the journey from conception, to delivery of a product. 
 
