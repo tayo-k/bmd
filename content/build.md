@@ -30,8 +30,8 @@ An ideal representation of all the ingredients that go into a product will see m
 
 Having this structure, ingredients and stages, an engineering culture should prioritize the following goals.
 
- ### 1. [De-risking](derisk.md)
- ### 2. [Engineer Comfort](comfort.md)
+ ###1. [De-risking](derisk.md)
+ ###2. [Engineer Comfort](comfort.md)
 
 
 ### Measurement
