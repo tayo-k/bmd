@@ -1,6 +1,9 @@
 Partner
 =======
 
+### TL;DR: Prioritize and sustain transparency, expectations and boundaries with your partners
+
+
 The engineering organization will need to coordinate efforts and resources with other groups within the enterprise to successfully deliver product on time and to specification. The **Partner** guardrail defines the basis on which the BMD engineering organization collaborates with other organizations and resources within the enterprise.
 
 Within the BMD framework, we deliberately identify “customers” and “partners” as distinct categories of entities. This distinction is important:
