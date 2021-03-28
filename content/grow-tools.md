@@ -2,13 +2,14 @@ Supporting Tools
 ================= 
 In support of growth an engineering organization, the organization will apply different variations of these tools:
 
-##Stretch Goals
+## Stretch Goals
+
 “In a hierarchy, every employee tends to rise to his level of incompetence” - Laurence J. Peter
 
 A healthy engineering culture must actively guard against saddling individuals or teams with responsibility they have not been adequately prepared for. The Peter Principle is the enemy, but also a yardstick to gauge growth prospects 
 With carefully curated goals and opportunities to deliver on those goals, the healthy engineering culture can objectively assess an individual’s readiness to accept more responsibility. Providing opportunities to deliver goals beyond the individual’s current rank is a way to prepare the individual for increased responsibility. These are generally referred to as “stretch goals” in the industry. 
 
-##Timely Feedback
+## Timely Feedback
 You can not grow - or even run - an engineering culture, or its organization without timely and effective feedback. Eliminating friction up and down the reporting chain of the organization should be a core value of any engineering organization. These structured feedback opportunities should be provided as basics:
 
 1. **1-on-1**
@@ -33,4 +34,4 @@ You can not grow - or even run - an engineering culture, or its organization wit
     
     The dead letter drop is a communication mechanism that should be available as a mechanism of last resort. This mechanism offers a feedback avenue 
     - For individuals that don’t feel comfortable speaking with authority figures face-to-face
-    - To provide feedback that may be difficult to provide directly to, or about their intended targets.
+    - To provide feedback that may be difficult to provide directly to, or about their intended targets. 
