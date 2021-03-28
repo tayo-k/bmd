@@ -15,11 +15,11 @@ In senior management, wide variances in the growth patterns and structures in th
 
 Growth has many different outcomes, motivations and meanings; but like the Build pillar, it has a fixed set of components:
 
-- ###[Goals](goals.md)
-- ###[Opportunities](opportunities.md)
-- ###[Supporting Tools](grow-tools.md)
+ ### 1. [Goals](goals.md)
+ ### 2. [Opportunities](opportunities.md)
+ ### 3. [Supporting Tools](grow-tools.md)
 
-##Measurement
+## Measurement
 
 Measuring the growth of individuals or teams is decidedly more cumbersome than we can get with the build pillar, but it can be done. A quantitative analysis should show that 
 
