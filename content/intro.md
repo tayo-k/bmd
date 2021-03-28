@@ -8,7 +8,7 @@ Better Managed Development
 3. Prioritize and measure your engineers’ comfort
 4. Prioritize and measure the sustainable growth of your individuals and teams
 5. Prioritize and sustain transparency, expectations and boundaries with your partners
-
+***
 The industry has decided on standards and frameworks to describe and define the ways software products should be built. 
 
 There is no shortage of frameworks that determine how employees should be “managed”. 
@@ -102,8 +102,10 @@ This responsibility will be executed along distinct, observable and measurable g
 
 1. ### [Build](build.md)
    ###### This guardrail addresses patterns and structures that safeguard how the product is built and delivered
+   ***
 2. ### [Grow](grow.md)
    ###### This guardrail addresses patterns and standards that support the growth of individuals and teams in the engineering organization
+   ***
 3. ### [Partner](partner.md)
    ###### This guardrail addresses the expectations and philosophy that influences the relationship that an engineering organization has with other organizations in the enterprise.
 
