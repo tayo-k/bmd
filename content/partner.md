@@ -11,8 +11,6 @@ Within the BMD framework, we deliberately identify “customers” and “partne
 - **Customers**: have minimal obligations to the engineering organization. They put out demands and expectations and generally require them met. Because “The customer is always right”. Their motivations and goals are fundamentally different from that of the engineering organization’s. Customers work **on** the engineering organization to extract output, and leave until the next time they need output. They are **involved** in the process. A customer has a choice of whom they patronize.
 - **Partners**: are working **with** the engineering organization toward common goals. In a partnership, the partners are mutually obligated to each other to deliver the product. There are expectations of each partner that are communicated and agreed upon in advance. When these expectations aren’t met, there is accountability and adjustments made to maintain alignment. Partners are integrated into the process of engineering at different stages. Partners are **committed** in the process.
 
-[Pig or chicken](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig): which would you classify the other organization as?
-
 The engineering organization must be able to clearly identify and differentiate their customers from their partners. The impact of customers on the culture of the organization is very different from that of partners.
 
 Customers in general, exert pressure on the engineering culture. They would typically be in a position of power over the engineering organization and would be dictating demands, timelines and financial incentives. They are also largely unaccountable to the engineering organization; they have options of whom to patronize, and thus can take their business elsewhere. 
