@@ -1,5 +1,7 @@
-Better Managed Development - A Framework for Engineering Culture
+Better Managed Development 
 ===========================
+
+### A Framework for Cultivating Engineering Culture
 
 ## TL;DR
 
