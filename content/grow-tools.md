@@ -10,8 +10,8 @@ A healthy engineering culture must actively guard against saddling individuals o
 
 With carefully curated goals and opportunities to deliver on those goals, the healthy engineering culture can objectively assess an individual’s readiness to accept more responsibility. Providing opportunities to deliver goals beyond the individual’s current rank is a way to prepare the individual for increased responsibility. These are generally referred to as “stretch goals” in the industry. 
 
-## Timely Feedback
-You can not grow - or even run - an engineering culture, or its organization without timely and effective feedback. Eliminating friction up and down the reporting chain of the organization should be a core value of any engineering culture. These structured feedback opportunities should be provided as basics:
+## Timely Communication
+You can not grow - or even run - an engineering culture, or its organization without timely and effective communication. Eliminating friction up and down the reporting chain of the organization should be a core value of any engineering culture. These structured feedback opportunities should be provided as basics:
 
 1. **1-on-1**
 
@@ -19,6 +19,7 @@ You can not grow - or even run - an engineering culture, or its organization wit
     - Held on a pre-arranged, regular basis
     - Primarily focused on the needs of the employee
     - Primarily focused on goals and opportunities
+    - Obligated to provide psychological safety of the individual
 2. **Skip-Level**
    
     The skip-level is a conversation between an individual and supervisors above their immediate supervisor - skipping any number of levels in the chain of responsibility. This skip in levels affords the employee the opportunity to communicate with more senior members of the engineering organization. Management in turn is provided more direct access to insights and intelligence regarding the functioning of their organization. This conversation is
