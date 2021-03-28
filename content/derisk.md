@@ -1,7 +1,5 @@
 # De-risking
 
-### TL;DR: Give your engineers ownership of the way your product is built
-
 The engineering organization must be able to clearly outline – in the grid or elsewhere – the specific ingredients that are relevant to mitigating risk along the journey from conception, to delivery of a product. 
 
 It’s important to clarify here that we’re not talking about fixation on bug-free software, hardware or services. Bugs will be introduced. Failures will happen. Timelines and the business landscape will change. 
