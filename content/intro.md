@@ -23,7 +23,7 @@ We haven’t tried to describe, quantify or measure the culture of the engineeri
 
 ## What We Define as “Engineering Culture”
 
-"Culture", in the context of software engineering is a question of _how_, not _what_, one does in the process of engineering software.
+"Culture", in the context of software engineering is a question of _how_, not _what_, one builds software.
 
 This way, we can define Engineering Culture as the implementation of a set of standards, processes and practices that define _how_ we deliver software products; from concept to production deployment. 
 
