@@ -39,3 +39,18 @@ You can not grow - or even run - an engineering culture, or its organization wit
     - To provide feedback that may be difficult to provide directly to, or about their intended targets. 
 
 ## Positive Feedback Loop
+A great culture produces a great product. The satisfaction of delivering a great product feeds back into a great culture. 
+
+Individuals that _want_ to come in every day and continue to collaborate and create a great product, are the outcome of a great culture. 
+
+The management of the engineering organization has the greater responsibility of providing incentives and reward systems that
+
+- Celebrate goals and milestones hit
+- Reward individual or team service that goes above and beyond the normal calls of duty
+- Generally put the individuals of the organization in a joyful mood, even if "for no obvious reason"
+- Incentivize a drive to continue to excel and innovate
+
+Difficult times are bound to occur for both individuals and teams, both forseable and not. A pre-existing, sustained environment of positivity, camaraderie, mental and emotional stability make challenging times much less trying for the organization as a whole. 
+
+Directly (and publicly where appropriate) publicly engineering a positive feedback loop in the engineering organization strengthens the resolve and bonds within the team, to continue to deliver.
+
