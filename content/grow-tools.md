@@ -43,7 +43,7 @@ A great culture produces a great product. The satisfaction of delivering a great
 
 Individuals that _want_ to come in every day and continue to collaborate and create a great product, are the outcome of a great culture. 
 
-The management of the engineering organization has the greater responsibility of providing incentives and reward systems that
+The management of the engineering organization has the greater responsibility of fostering an ecosystem that
 
 - Celebrate goals and milestones hit
 - Reward individual or team service that goes above and beyond the normal calls of duty
