@@ -45,12 +45,12 @@ Individuals that _want_ to come in every day and continue to collaborate and cre
 
 The management of the engineering organization has the greater responsibility of fostering an ecosystem that
 
-- Celebrate goals and milestones hit
-- Reward individual or team service that goes above and beyond the normal calls of duty
-- Generally put the individuals of the organization in a joyful mood, even if "for no obvious reason"
-- Incentivize a drive to continue to excel and innovate
+- Celebrates goals and milestones hit
+- Rewards individual or team service that goes above and beyond the normal calls of duty
+- Generally sustains a joyful mood, even if "for no obvious reason"
+- Incentivizes a self-sustaining drive to continue to excel and innovate
 
 Difficult times are bound to occur for both individuals and teams, both forseable and not. A pre-existing, sustained environment of positivity, camaraderie, mental and emotional stability make challenging times much less trying for the organization as a whole. 
 
-Directly (and publicly where appropriate) publicly engineering a positive feedback loop in the engineering organization strengthens the resolve and bonds within the team, to continue to deliver.
+Directly (and publicly, where appropriate) engineering a positive feedback loop in the engineering organization strengthens the resolve and bonds within the team, to continue to deliver.
 
