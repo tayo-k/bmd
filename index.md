@@ -67,13 +67,14 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
  ##### 4. Measure engineering culture along predefined guardrails
  ****
 #### 2. [Engineers own how the product is built](build.md)
- ##### 1. Understand the quality gates available to you
- ##### 2. Building the product should be as straightforward as you can make it.
- ##### 3. Supporting the product should be as straightforward as the you can make it. 
- ##### 4. Shift the guardrails as leftward as you can make it
- ##### 5. Build the product to tell you what went wrong and how
- ##### 6. Build the product to be changed at any point after deployment
- ##### 7. Seek the feedback of your customers and partners at key quality gates
+
+    ##### 1. Understand the quality gates available to you
+    ##### 2. Building the product should be as straightforward as you can make it.
+    ##### 3. Supporting the product should be as straightforward as the you can make it. 
+    ##### 4. Shift the guardrails as leftward as you can make it
+    ##### 5. Build the product to tell you what went wrong and how
+    ##### 6. Build the product to be changed at any point after deployment
+    ##### 7. Seek the feedback of your customers and partners at key quality gates
     
    ***
 #### 3. [Management supports how the product is built ](grow.md)
