@@ -1,6 +1,6 @@
 Better Managed Development
 ===========================
-##A framework for managing engineering culture
+## A framework for managing engineering culture
 ### What We Define as “Engineering Culture”
 
 "Culture", in the context of software engineering is a question of _how_, not _what_, one builds software.
@@ -61,34 +61,34 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
 
 ## Principles
 #### 1. Engineering culture is a distinct, quantifiable quality
- ##### i. Safeguard engineering culture as a distinct responsibility
- ##### ii. Quality gates protect engineering culture
- ##### iii. Guardrails are the ingredients of protecting engineering culture
- ##### iv. Measure engineering culture along predefined guardrails
+ ##### 1. Safeguard engineering culture as a distinct responsibility
+ ##### 2. Quality gates protect engineering culture
+ ##### 3. Guardrails are the ingredients of protecting engineering culture
+ ##### 4. Measure engineering culture along predefined guardrails
  ****
 #### 2. [Engineers own how the product is built](build.md)
- ##### i. Understand the quality gates available to you
- ##### ii. Building the product should be as straightforward as you can make it.
- ##### iii. Supporting the product should be as straightforward as the you can make it. 
- ##### iv. Shift the guardrails as leftward as you can make it
- ##### v. Build the product to tell you what went wrong and how
- ##### vi. Build the product to be changed at any point after deployment
- ##### vii. Seek the feedback of your customers and partners at key quality gates
+ ##### 1. Understand the quality gates available to you
+ ##### 2. Building the product should be as straightforward as you can make it.
+ ##### 3. Supporting the product should be as straightforward as the you can make it. 
+ ##### 4. Shift the guardrails as leftward as you can make it
+ ##### 5. Build the product to tell you what went wrong and how
+ ##### 6. Build the product to be changed at any point after deployment
+ ##### 7. Seek the feedback of your customers and partners at key quality gates
     
    ***
 #### 3. [Management supports how the product is built ](grow.md)
- ##### i. Check-in frequently
- ##### ii. Feedback frequently
- ##### iii. Opportunities everywhere
- ##### iv. SMART Goals
- ##### v. Provide visibility
+ ##### 1. Check-in frequently
+ ##### 2. Feedback frequently
+ ##### 3. Opportunities everywhere
+ ##### 4. SMART Goals
+ ##### 5. Provide visibility
 
    ***
 #### 4. [Know your partners and customers](partner.md)
- ##### i. Identify and distinguish between partners and customers of the engineering organization
- ##### ii Every quality gate you define is an opportunity to keep your partners informed, seek feedback
- ##### ii. Dedicate specific guardrails to the benefit of your customers and partners along the engineering journey
- ##### iii. The engineers are the best guardrail for the quality of feature requests
- ##### iv The business is the best guardrail for the quality of the features built
+ ##### 1. Identify and distinguish between partners and customers of the engineering organization
+ ##### 2 Every quality gate you define is an opportunity to keep your partners informed, seek feedback
+ ##### 3. Dedicate specific guardrails to the benefit of your customers and partners along the engineering journey
+ ##### 4. The engineers are the best guardrail for the quality of feature requests
+ ##### 5 The business is the best guardrail for the quality of the features built
 
 
