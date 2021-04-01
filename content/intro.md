@@ -1,28 +1,7 @@
 Better Managed Development
 ===========================
-
-## TL;DR
-
-1. Give your engineers ownership of the way your product is built
-2. Prioritize and measure managing risk in your product and process
-3. Prioritize and measure your engineers’ comfort
-4. Prioritize and measure the sustainable growth of your individuals and teams
-5. Prioritize and sustain transparency, expectations and boundaries with your partners
-***
-
-The industry has decided on standards and frameworks to describe and define the ways software products should be built. 
-
-There is no shortage of frameworks that determine how employees should be “managed”. 
-
-The focus is usually on the output of engineering organizations; how code should be written; how projects should be managed. 
-
-There are shorthand phrases that readily describe how any software engineering shop delivers a product. 
-
-Most don’t know what to expect when joining or partnering with a software engineering organization. 
-
-We haven’t tried to describe, quantify or measure the culture of the engineering organization.
-
-## What We Define as “Engineering Culture”
+##A framework for managing engineering culture
+### What We Define as “Engineering Culture”
 
 "Culture", in the context of software engineering is a question of _how_, not _what_, one builds software.
 
@@ -86,29 +65,43 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
  	
 - We believe that engineering culture involves more than just software engineering; the relationship between engineering and the product organization business; the relationship between the engineering and the agile process; the relationship between engineering and senior management – all of these are facets relevant to a healthy engineering culture.
 
-#### Safeguarding Engineering Culture Should Be a Distinct Responsibility
-Scrum masters safeguard agile principles in the process of engineering. 
-
-Project managers safeguard project management principles in the course of delivering the product. 
-
-Product owners safeguard the customer and the business’s interests along the way. 
-
-We propose the Better Managed Development (BMD) manifesto as a step in that direction. It’s our hope that this becomes an iterative standard that the industry will contribute to. There are big-budget shops that have solved cultural problems; we invite them to contribute proposals here to help seed the industry with healthy, reproducible practices.
-
-It should be the dedicated responsibility of one or more individuals to safeguard the interests of the culture of an engineering organization. 
-
-This responsibility will be executed along distinct, observable and measurable guardrails.
-
-## Guardrails of Engineering Culture
-
-1. ### [Build](build.md)
-   ###### This guardrail addresses patterns and structures that safeguard how the product is built and delivered
+## Principles
+#### 1. Engineering culture is a distinct, quantifiable quality
+ ##### i. Safeguard engineering culture as a distinct responsibility
+ ##### ii. Safeguard engineering culture along its guardrails
+ ##### ii. Measure engineering culture along its guardrails
+ ****
+#### 2. [Guardrail how your product is built](build.md)
+ ##### i. Engineers own how the product is built.
+ ##### ii. Building the product should be as straightforward as the engineers can make it.
+ ##### iii. Supporting the product should be as straightforward as the engineers can make it. 
+ ##### iv. Each step that the product goes through is a quality gate
+ ##### v. Guardrails protect each quality gate
+ ##### vi. Shift guardrails left wherever possible and practical
+ ##### vii. Automate the guardrails wherever possible and practical.
+ ##### viii. Capture metrics from your guardrails wherever possible and practical.
+ ##### ix. Build your product to tell you what went wrong and how.
+ ##### x. Build your product to be versioned.
+ ##### xi. Seek feedback from non-management; specifically on how the product is being built.
+   
    ***
-2. ### [Grow](grow.md)
-   ###### This guardrail addresses patterns and standards that support the growth of individuals and teams in the engineering organization
+#### 3. [Guardrail how the organization grows](grow.md)
+ ##### i. The engineers get documented SMART goals that align with their interests
+ ##### ii. The engineers get documented SMART goals that align with the team's interests
+ ##### iii. The engineers get documented SMART goals that align with the organization's interests
+ ##### iv. The engineers get documented opportunities that directly support their documented goals
+ ##### v. All levels of engineering management are available to receive regular feedback from non-management
+ ##### vi. All levels of engineering management are available to provide regular, timely feedback to the non-management
+ ##### vii. Every predefined communication opportunity between management and non-management is a quality gate
+ ##### viii. Publicly commend; privately admonish.
+ ##### ix. The engineers know the engineers they want to work with. Let them.
+ ##### x. The engineers know the managers they want to work with. Let them.
    ***
-3. ### [Partner](partner.md)
-   ###### This guardrail addresses the expectations and philosophy that influences the relationship that an engineering organization has with other organizations in the enterprise.
-
+#### 4. [Guardrail how the organizaton partners with others](partner.md)
+ ##### i. Identify and distinguish between partners and customers of the engineering organization
+ ##### ii. Dedicate specific guardrails to the benefit of your customers and partners along the engineering journey
+ ##### iii. The engineers are the guardrail for the quality of feature requests
+ ##### iv The business is the guardrail for the quality of the features built
+ ##### v. The team is the guardrail of scope
 
 
