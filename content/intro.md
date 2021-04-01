@@ -77,11 +77,11 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
     
    ***
 #### 3. [Management supports how the product is built ](grow.md)
- ##### i. Check-in, check-in, check-in
- ##### ii. Feedback, feedback, feedback
- ##### iii. Opportunities, opportunities, opportunities
- ##### iv. Goals, goals, goals
- ##### v. Visibility, visibility, visbility
+ ##### i. Check-in frequently
+ ##### ii. Feedback frequently
+ ##### iii. Opportunities everywhere
+ ##### iv. SMART Goals
+ ##### v. Provide visibility
 
    ***
 #### 4. [Know your partners and customers](partner.md)
