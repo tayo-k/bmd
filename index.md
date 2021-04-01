@@ -66,7 +66,7 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
 - We believe that engineering culture involves more than just software engineering; the relationship between engineering and the product organization business; the relationship between the engineering and the agile process; the relationship between engineering and senior management – all of these are facets relevant to a healthy engineering culture.
 
 ## Principles
-#### 1. Engineering culture is a distinct, quantifiable quality
+#### i. Engineering culture is a distinct, quantifiable quality
  ##### i. Safeguard engineering culture as a distinct responsibility
  ##### ii. Safeguard engineering culture along its guardrails
  ##### ii. Measure engineering culture along its guardrails
@@ -86,7 +86,7 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
    
    ***
 #### 3. [Guardrail how the organization grows](grow.md)
- ##### i. The engineers get documented SMART goals that align with their interests
+   ##### i. The engineers get documented SMART goals that align with their interests
  
  ##### ii. The engineers get documented SMART goals that align with the team's interests
  
