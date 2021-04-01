@@ -1,6 +1,6 @@
 Better Managed Development
 ===========================
-##A framework for managing engineering culture
+## A framework for managing engineering culture
 ### What We Define as “Engineering Culture”
 
 "Culture", in the context of software engineering is a question of _how_, not _what_, one builds software.
@@ -87,14 +87,23 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
    ***
 #### 3. [Guardrail how the organization grows](grow.md)
  ##### i. The engineers get documented SMART goals that align with their interests
+ 
  ##### ii. The engineers get documented SMART goals that align with the team's interests
+ 
  ##### iii. The engineers get documented SMART goals that align with the organization's interests
+ 
  ##### iv. The engineers get documented opportunities that directly support their documented goals
+ 
  ##### v. All levels of engineering management are available to receive regular feedback from non-management
+ 
  ##### vi. All levels of engineering management are available to provide regular, timely feedback to the non-management
+ 
  ##### vii. Every predefined communication opportunity between management and non-management is a quality gate
+ 
  ##### viii. Publicly commend; privately admonish.
+ 
  ##### ix. The engineers know the engineers they want to work with. Let them.
+ 
  ##### x. The engineers know the managers they want to work with. Let them.
    ***
 #### 4. [Guardrail how the organizaton partners with others](partner.md)
@@ -103,4 +112,5 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
  ##### iii. The engineers are the guardrail for the quality of feature requests
  ##### iv The business is the guardrail for the quality of the features built
  ##### v. The team is the guardrail of scope
+
 
