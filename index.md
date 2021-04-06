@@ -47,12 +47,6 @@ The only differences between a high-performing engineering shop and others boil 
 
 For the majority of the tech industry, their budgetary constraints are not going to change drastically. Most individuals in the engineering organization don’t have control over the money available to them.
 
-No, your ping-pong table isn’t a substitute for actual, deliberately engineered culture. Few people will be joining your team because you have a Foosball table.
-
-No, the technology isn’t a differentiator insofar the majority of the software engineering industry thrives on open source or otherwise readily available technologies.
-
-No, the primary differentiator for many high-performing engineering organizations is their engineering culture.
-
 A relatively lower budget engineering organization can still execute effectively; deliver high-quality products; retain and attract great talent. All based solely on the strengths of a healthy, effective and deliberate engineering culture.
 
 Engineering culture is the one ingredient that is uniquely within the control of the engineering organization and its participants. 
@@ -66,51 +60,36 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
 - We believe that engineering culture involves more than just software engineering; the relationship between engineering and the product organization business; the relationship between the engineering and the agile process; the relationship between engineering and senior management – all of these are facets relevant to a healthy engineering culture.
 
 ## Principles
-#### i. Engineering culture is a distinct, quantifiable quality
- ##### i. Safeguard engineering culture as a distinct responsibility
- ##### ii. Safeguard engineering culture along its guardrails
- ##### ii. Measure engineering culture along its guardrails
+#### 1. Engineering culture is a distinct, quantifiable quality
+ ##### 1. Safeguard engineering culture as a distinct responsibility
+ ##### 2. Quality gates protect engineering culture
+ ##### 3. Guardrails are the ingredients of protecting engineering culture
+ ##### 4. Measure engineering culture along predefined guardrails
  ****
-#### 2. [Guardrail how your product is built](build.md)
- ##### i. Engineers own how the product is built.
- ##### ii. Building the product should be as straightforward as the engineers can make it.
- ##### iii. Supporting the product should be as straightforward as the engineers can make it. 
- ##### iv. Each step that the product goes through is a quality gate
- ##### v. Guardrails protect each quality gate
- ##### vi. Shift guardrails left wherever possible and practical
- ##### vii. Automate the guardrails wherever possible and practical.
- ##### viii. Capture metrics from your guardrails wherever possible and practical.
- ##### ix. Build your product to tell you what went wrong and how.
- ##### x. Build your product to be versioned.
- ##### xi. Seek feedback from non-management; specifically on how the product is being built.
-   
+#### 2. [Engineers own how the product is built](build.md)
+
+   ##### 1. Understand the quality gates available to you
+   ##### 2. Building the product should be as straightforward as you can make it.
+   ##### 3. Supporting the product should be as straightforward as the you can make it. 
+   ##### 4. Shift the guardrails as leftward as you can make it
+   ##### 5. Build the product to tell you what went wrong and how
+   ##### 6. Build the product to be changed at any point after deployment
+   ##### 7. Seek the feedback of your customers and partners at key quality gates
+    
    ***
-#### 3. [Guardrail how the organization grows](grow.md)
-   ##### i. The engineers get documented SMART goals that align with their interests
- 
- ##### ii. The engineers get documented SMART goals that align with the team's interests
- 
- ##### iii. The engineers get documented SMART goals that align with the organization's interests
- 
- ##### iv. The engineers get documented opportunities that directly support their documented goals
- 
- ##### v. All levels of engineering management are available to receive regular feedback from non-management
- 
- ##### vi. All levels of engineering management are available to provide regular, timely feedback to the non-management
- 
- ##### vii. Every predefined communication opportunity between management and non-management is a quality gate
- 
- ##### viii. Publicly commend; privately admonish.
- 
- ##### ix. The engineers know the engineers they want to work with. Let them.
- 
- ##### x. The engineers know the managers they want to work with. Let them.
+#### 3. [Management supports how the product is built ](grow.md)
+ ##### 1. Check-in frequently
+ ##### 2. Feedback frequently
+ ##### 3. Opportunities everywhere
+ ##### 4. SMART Goals
+ ##### 5. Provide visibility
+
    ***
-#### 4. [Guardrail how the organizaton partners with others](partner.md)
- ##### i. Identify and distinguish between partners and customers of the engineering organization
- ##### ii. Dedicate specific guardrails to the benefit of your customers and partners along the engineering journey
- ##### iii. The engineers are the guardrail for the quality of feature requests
- ##### iv The business is the guardrail for the quality of the features built
- ##### v. The team is the guardrail of scope
+#### 4. [Know your partners and customers](partner.md)
+ ##### 1. Identify and distinguish between partners and customers of the engineering organization
+ ##### 2 Every quality gate you define is an opportunity to keep your partners informed, seek feedback
+ ##### 3. Dedicate specific guardrails to the benefit of your customers and partners along the engineering journey
+ ##### 4. The engineers are the best guardrail for the quality of feature requests
+ ##### 5 The business is the best guardrail for the quality of the features built
 
 
