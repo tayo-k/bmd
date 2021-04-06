@@ -29,7 +29,7 @@ You and your colleagues should be in a position to
 
 ## BMD Grid
 
-The following grid is a tool to design and define the ideals and timings for building a software product:
+The following grid is a tool to design and define the guardrails and quality gates for building a software product:
 
 |           | Planning | Development | Pre-push | Pre-merge | Post-merge | Integration |
 |-----------|----------|-------------|----------|-----------|------------|-------------|
@@ -42,14 +42,13 @@ This can easily be represented either as a real-life or virtual whiteboard. With
 2. **Processes**: define the processes that should be applied at specific points in the progression from raw material to finished software product
 3. **Tools**: identify tools that can be applied to the product as it moves along the assembly line of software engineering.
 
-The motivation is to provide a visual, structured approach that will help with the timely identification of opportunities to improve the process of developing the product. It’s also particularly useful for collaborative purposes, where any number of individuals can contribute their ideas in a structured manner. 
+The idea is to provide a visual, structured approach that will help with the timely identification of opportunities to improve the process of developing the product. It’s also particularly useful for collaborative purposes, where any number of devs can contribute their ideas in a structured manner. 
 
 - Expect that your BMD grid could be reused by other departments in your organization
 - Prioritize mitigating risk to the product, as well as your own comfort in building and supporting it 
+- Ideally, you'll have more  a rough indication of higher preparedness, in line with the Shift-Left ideology.
 
-An ideal representation of all the ingredients that go into a product will see more items to the left of the board than the right; a rough indication of higher preparedness, in line with the Shift-Left ideology.
-
-Having this structure, ingredients and stages: 
+Having this structure, guardrails and quality gates: 
 1. Collect yourselves into pods (or guilds) 
 2. Prepare to define specific **tasks** that can be collected into coherent **milestones**. 
 3. Work with your steering group to maintain alignment with strategic initiatives and objectives.
@@ -70,7 +69,7 @@ Pods provide a structure for engineers to freely ideate, experiment and coalesce
 They are an avenue for engineers to provide bottom-up leadership to their supervisors.
 
 ### Milestones
-The individual tasks engineers deem necessary as pods should be grouped together and organized under milestones. Milestones are coherent, measurable and time-bound goals that the smaller units of work build up to. Milestones should be demonstrably linked to any larger strategic initiatives, if they exist. A milestone serves as an uplink to strategic targets and initiatives, from the work the pods are doing. This way, non-management folk have some ownership and stake in the strategic goals of senior management
+The tasks that engineers deem necessary as pods should be grouped together and organized under milestones. Milestones are coherent, measurable and time-bound goals that the smaller units of work build up to. Milestones should be demonstrably linked to any larger strategic initiatives, if they exist. A milestone serves as an uplink to strategic targets and initiatives, from the work the pods are doing. This way, non-management folk have some ownership and stake in the strategic goals of senior management
 
 With these structures in place, we arrive at a process where
 - Pods ideate and craft milestones they’re interested in picking up
