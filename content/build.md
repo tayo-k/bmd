@@ -31,7 +31,7 @@ You and your colleagues should be in a position to
 
 The following grid is a tool to design and define the guardrails and quality gates for building a software product:
 
-|           | Planning | Development | Pre-push | Pre-merge | Post-merge | Integration |
+|           | Planning | Development | Pre-push | Pre-merge | Post-merge | <more quality gates here |
 |-----------|----------|-------------|----------|-----------|------------|-------------|
 | **People**    |          |             |          |           |            |             |
 | **Processes** |          |             |          |           |            |             |
@@ -46,7 +46,6 @@ The idea is to provide a visual, structured approach that will help with the tim
 
 - Expect that your BMD grid could be reused by other departments in your organization
 - Prioritize mitigating risk to the product, as well as your own comfort in building and supporting it 
-- Ideally, you'll have more  a rough indication of higher preparedness, in line with the Shift-Left ideology.
 
 Having this structure, guardrails and quality gates: 
 1. Collect yourselves into pods (or guilds) 
