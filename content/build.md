@@ -1,7 +1,7 @@
-Build
+Quality gate how your product is built
 =====
 
-### TL;DR: Prioritize and measure managing risk in your product and process
+### TL;DR: Define specific junctures for safeguarding the quality of your product
 ****
 
 The primary function of an engineering organization is to create their product. There are a lot of roles and titled individuals involved in that process, but there is a fixed set of ingredients that go into the creation of a product.

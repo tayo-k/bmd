@@ -1,39 +1,32 @@
-# Grow
+# Management
 
-### TL;DR: Prioritize and measure the sustainable growth of your individuals and teams
+### TL;DR: Be an active participant in supporting your engineers and the organization
 
-The healthy engineering engineering organization prioritizes the growth of its individuals and teams. Beyond the broad strokes of what the larger company offers, it’s necessary to standardize the foundation on which individuals, their managers and their teams can build a growth strategy. 
+Where the engineers own the _how_ of building product, engineering leadership owns the _what_. 
 
-Being able to clearly define the organizational focus and approach to individual personal and professional growth is also a useful recruiting tool: as an engineering manager, you want to attract talent that seeks to grow; and as such, be able to clearly describe the structure within which your organization will support the potential hire’s growth. 
+In supporting the engineers, partners, customers and the product, be prepared to actively engage the levers available to you.
 
-As a potential or existing hire in an engineering org, you want to know that the engineering culture has the desire and infrastructure to support whatever growth plans you’re nursing. It should go without saying, but: stagnation will be the death of your career and earning prospects. 
+## Active Leadership
+The active leader takes deliberate, calibrated steps to deliver specific outcomes on a regular basis.
 
-In senior management, wide variances in the growth patterns and structures in the engineering organization leads to 
+If you're looking forward to any outcome in your directs, partners, or your organization, ask the question:
 
-- Uneven performances
-- Unequally challenged staff
-- Poor morale
-- Stagnant innovation pipeline
-- Stagnant leadership pipeline
+What am I doing on a regular basis to elicit this outcome I desire? 
 
-Growth has many different outcomes, motivations and meanings; but like the Build pillar, it has a fixed set of components:
+This should not be construed as a mechanism to micromanage. Rather, it involves the *measured* application of  pre-determined levers available only to the leadership cadre of the organization
+
+###The Guardrail Paradox and Active Leadership 
+Where active leadership encourages deliberate engagement and use of *leadership* tools and instruments, it may not be sustainable over a long enough period of time.
+
+This is where guardrails come in.
+
+Active leadership engages in the deliberate and systematic installation of guardrails around their organization. These guardrails are systems and processes that help automate or otherwise safeguard the qualities they wish to sustain in the organization.
+
+By deploying well managed guardrails, an active leader can then transition into a more passive leadership in certain aspects; the well managed guardrails and quality gates should assume more responsibility in safeguarding parts of the engineering culture. 
 
  ## [Goals](goals.md)
  
  ## [Opportunities](opportunities.md)
  
  ## [Supporting Tools](grow-tools.md)
-
-## Measurement
-
-Measuring the growth of individuals or teams is decidedly more cumbersome than we can get with the build pillar, but it can be done. A quantitative analysis should show that 
-
-- Goals and Opportunities are being created across the organization
-- Goals and Opportunities are provided in timely fashion
-- Goals and Opportunities are acknowledged by their targets
-- Goals and opportunities are being tracked by the broader human resources organization
-- Specific categories of goals and opportunities that are high priority are being created 
-- The resources of the engineering organization being expended specifically for growth opportunities
-- Goals and opportunities can be clearly aligned and correlated with larger strategic initiatives when available
-- Specific conversations have been had around the set goals and opportunities
 
