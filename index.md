@@ -1,6 +1,6 @@
 Better Managed Development
 ===========================
-## A framework for managing engineering culture
+##A framework for managing engineering culture
 ### What We Define as “Engineering Culture”
 
 "Culture", in the context of software engineering is a question of _how_, not _what_, one builds software.
@@ -57,39 +57,70 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
  	
 - We believe a set of standards should describe some minimums that underpin a healthy, effective and sustainable software engineering organization.
  	
-- We believe that engineering culture involves more than just software engineering; the relationship between engineering and the product organization business; the relationship between the engineering and the agile process; the relationship between engineering and senior management – all of these are facets relevant to a healthy engineering culture.
+- We believe that engineering culture involves more than just software engineering; including the relationship with the product organization; the relationship with senior management – all of these are facets relevant to a healthy engineering culture.
 
 ## Principles
 #### 1. Engineering culture is a distinct, quantifiable quality
- ##### 1. Safeguard engineering culture as a distinct responsibility
- ##### 2. Quality gates protect engineering culture
- ##### 3. Guardrails are the ingredients of protecting engineering culture
- ##### 4. Measure engineering culture along predefined guardrails
+ ##### i. Safeguard engineering culture as a distinct responsibility
+   - It should be one or more people's responsibility to deliberately monitor,influence and track the culture of the organization
+ ##### ii. Quality gates and guardrails protect engineering culture
+   - Guardrails and quality gates must be installed to provide long-term safeguards for the culture of organization
+ ##### iii. Measure engineering culture along predefined guardrails and quality gates
+   - Guardrails and quality gates will offer the best opportunities to observe the culture
+ ##### iv. Autopilot wherever possible and practical
+   - Put as many guardrails as you can on autopilot - a system of checks and balances that can self-direct.
  ****
 #### 2. [Engineers own how the product is built](build.md)
-
-   ##### 1. Understand the quality gates available to you
-   ##### 2. Building the product should be as straightforward as you can make it.
-   ##### 3. Supporting the product should be as straightforward as the you can make it. 
-   ##### 4. Shift the guardrails as leftward as you can make it
-   ##### 5. Build the product to tell you what went wrong and how
-   ##### 6. Build the product to be changed at any point after deployment
-   ##### 7. Seek the feedback of your customers and partners at key quality gates
-    
+ ##### i. Understand the quality gates available to you
+   - Be aware of the stages your product goes through. They are opportunities to improve the quality and security of your product.
+ ##### ii. Building the product should be as straightforward as you can make it.
+   - You build it; you own it. You deserve the most frictionless engineering experience you can create for yourself.
+ ##### iii. Supporting the product should be as straightforward as you can make it. 
+   - You build it; you own it. Make supporting the product as comfortable as you can for yourself
+ ##### iv. Testing the product should be as straightforward as you can make it.
+   - You build it; you own it. The business deserves guarantees of the quality of the product. Make it easy for yourself.
+ ##### v. Upgrading the product should be as straightforward as you can make it. 
+   - You build it; you own it; expect your product to change as the business landscape changes. Make the changes easy for yourself.
+ ##### v. Build the product to tell you what went wrong and how
+   - You build it; you own it. Spend as little time as possible wondering what went wrong or how.
+ ##### iv. Shift the guardrails as leftward as you can make them
+   - Do more to guardrail the quality of your product in earlier quality gates. You'll have less to do later when it's more costly.
+ ##### vi. Don't shrinkwrap your product
+   - Requirements will change; timelines will change; prepare for your design to take a punch.
+ ##### vii. Seek the feedback of your customers and partners at key quality gates
+   - Keep everyone informed; cover your rear. 
+ ##### viii. Be loud or be wrong, never both.
+   - Either be absolutely, objectively, verifiably correct; or don't speak in absolutes  
    ***
 #### 3. [Management supports how the product is built ](grow.md)
- ##### 1. Check-in frequently
- ##### 2. Feedback frequently
- ##### 3. Opportunities everywhere
- ##### 4. SMART Goals
- ##### 5. Provide visibility
+ ##### i. Actively manage scope, capacity and timelines
+   - Nothing will burn your engineers or leadership out faster than shifting scopes, capacity and timelines.
+ ##### ii. Actively engineer context sharing
+   - Everyone should know why they're doing whatever they're doing; clarify the connection between the past, present and future.
+ ##### iii. Actively engineer communication loops
+   - Everyone should know how things are going; you should know how things are going.
+ ##### iv. Actively manage goals
+   - Goals build muscle; goals build the organization. 
+ ##### v. Actively engineer opportunities 
+   - Goals without opportunities to deliver them are worthless. 
+ ##### vi. Actively engineer skill-sets 
+   - A team full of generalists will become costly; cultivate depth in the specific skillsets your team needs.
+ ##### vii. Actively manage delivery risk
+   - Be aware of eveything that'll negatively affect delivery and quality
+ ##### viii. Actively engineer goodwill
+   - Deliberately maintain a positive, healthy work environment and a motivated organization. Hard times will come,   and go over easier when the team's usually in a generally in a good mood.
+ ##### ix. The Peter Principle is the enemy
+   - Responsibility without adequate preparation for the responsibility is going to be disastrous 
+ ##### x. Be loud or be wrong, never both
+   - Either be absolutely, objectively, verifiably correct; or don't speak in absolutes.
 
    ***
-#### 4. [Know your partners and customers](partner.md)
- ##### 1. Identify and distinguish between partners and customers of the engineering organization
- ##### 2 Every quality gate you define is an opportunity to keep your partners informed, seek feedback
- ##### 3. Dedicate specific guardrails to the benefit of your customers and partners along the engineering journey
- ##### 4. The engineers are the best guardrail for the quality of feature requests
- ##### 5 The business is the best guardrail for the quality of the features built
+#### 4. [Everyone supports their partners and customers](partner.md)
+ ##### i. The business and engineering are in a partnership, not a "customership"
+   - Partners are mutually obligated to each other and hold themselves accountable to predetermined expectations
+ ##### ii Know your customers
+   - You can't empathize with a customer you never hear from. You won't satisfy customers you don't empathize with.
+ ##### iii. Be loud or be wrong, never both
+   - Either be absolutely, objectively, verifiably correct; or don't speak in absolutes.
 
 
