@@ -78,77 +78,79 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
  
 ### 2. [Engineers own how the product is built](content/build.md)
 
- #### 1. Understand the quality gates available to you
-   - Be aware of the stages your product goes through. They are opportunities to improve the quality and security of your product
+ 1. Understand the quality gates available to you
+   > Be aware of the stages your product goes through. They are opportunities to improve the quality and security of your product
    
- #### 2.2 Building the product should be as straightforward as you can make it
-   - You build it; you own it. You deserve the most frictionless engineering experience you can create for yourself
+ 2. Building the product should be as straightforward as you can make it
+   > You build it; you own it. You deserve the most frictionless engineering experience you can create for yourself
    
- #### 2.3 Supporting the product should be as straightforward as you can make it 
-   - You build it; you own it. Make supporting the product as comfortable as you can for yourself
+ 3. Supporting the product should be as straightforward as you can make it 
+   > You build it; you own it. Make supporting the product as comfortable as you can for yourself
    
- #### 2.4 Testing the product should be as straightforward as you can make it
-   - You build it; you own it. The business deserves guarantees of the quality of the product. Make it easy for yourself
+ 4. Testing the product should be as straightforward as you can make it
+   > You build it; you own it. The business deserves guarantees of the quality of the product. Make it easy for yourself
    
- #### 2.5 Upgrading the product should be as straightforward as you can make it 
-   - You build it; you own it; expect your product to change as the business landscape changes. Make the changes easy for yourself
+ 5. Upgrading the product should be as straightforward as you can make it 
+   > You build it; you own it; expect your product to change as the business landscape changes. Make the changes easy for yourself
    
- #### 2.6 Build the product to tell you what went wrong and how
-   - You build it; you own it. Spend as little time as possible wondering what went wrong or how
+ 6. Build the product to tell you what went wrong and how
+   > You build it; you own it. Spend as little time as possible wondering what went wrong or how
    
- #### 2.7 Shift the guardrails as leftward as you can make them
-   - Do more to guardrail the quality of your product in earlier quality gates. You'll have less to do later when it's more costly
+ 7. Shift the guardrails as leftward as you can make them
+   > Do more to guardrail the quality of your product in earlier quality gates. You'll have less to do later when it's more costly
    
- #### 2.8 Don't shrinkwrap your product
-   - Requirements will change; timelines will change; avoid hard forks and prepare for your design to take a punch
+ 8. Don't shrinkwrap your product
+   > Requirements will change; timelines will change; avoid hard forks and prepare for your design to take a punch
    
- #### 2.9 Seek the feedback of your customers and partners at key quality gates
-   - Keep everyone informed; cover your rear
+ 9. Seek the feedback of your customers and partners at key quality gates
+   > Keep everyone informed; cover your rear
    
- #### 2.10 Be loud or be wrong, never both
-   - Either be absolutely, objectively, verifiably correct; or don't speak in absolutes  
+ 10. Be loud or be wrong, never both
+   > Either be absolutely, objectively, verifiably correct; or don't speak in absolutes  
    
    ***
+   
 ### 3. [Leadership supports how the product is built ](content/grow.md)
- ##### i. Actively manage scope, capacity and timelines
-   - Nothing will burn your engineers or leadership out faster than shifting scopes, capacity and timelines
+
+  1. Actively manage scope, capacity and timelines
+   > Nothing will burn your engineers or leadership out faster than shifting scopes, capacity and timelines
    
- ##### ii. Actively engineer context sharing
-   - Everyone should know why they're doing what they're doing; clarify the connection between the past, present and future
+  2. Actively engineer context sharing
+   > Everyone should know why they're doing what they're doing; clarify the connection between the past, present and future
    
- ##### iii. Actively engineer communication loops
-   - Everyone should know how things are going; you should know how things are going
+  3. Actively engineer communication loops
+   > Everyone should know how things are going; you should know how things are going
    
- ##### iv. Actively manage goals
-   - Goals build muscle; muscle builds the organization
+  4. Actively manage goals
+   > Goals build muscle; muscle builds the organization
     
- ##### v. Actively engineer opportunities 
-   - Goals without opportunities to deliver them are worthless
+  5. Actively engineer opportunities 
+   > Goals without opportunities to deliver them are worthless
     
- ##### vi. Actively engineer skill-sets 
-   - A team full of generalists will become costly; cultivate depth in the specific skill-sets your team needs, in line with their interests
+  6. Actively engineer skill-sets 
+   > A team full of generalists will become costly; cultivate depth in the specific skill-sets your team needs, in line with their interests
    
- ##### vii. Actively manage delivery risk
-   -  For everything that could negatively affect delivery and quality: document, communicate and mitigate.
+  7. Actively manage delivery risk
+   >  For everything that could negatively affect delivery and quality: document, communicate and mitigate.
    
- ##### viii. Actively engineer goodwill
-   - Happy developer, happy life. Hard times will come, and go over easier when the team's usually in a generally in a good mood
+  8. Actively engineer goodwill
+   > Happy developer, happy life. Hard times will come, and go over easier when the team's usually in a generally in a good mood
    
- ##### ix. The Peter Principle is the enemy
-   - Responsibility without adequate preparation for the responsibility is going to be disastrous 
+  9. The Peter Principle is the enemy
+   > Responsibility without adequate preparation for the responsibility is going to be disastrous 
    
- ##### x. Be loud or be wrong, never both
-   - Either be absolutely, objectively, verifiably correct; or don't speak in absolutes
+ 10. Be loud or be wrong, never both
+   > Either be absolutely, objectively, verifiably correct; or don't speak in absolutes
 
    ***
 ### 4. [Everyone supports their partners and customers](content/partner.md)
- ##### i. The business and engineering are in a partnership, not a "customership"
-   - Partners are mutually obligated to each other and hold themselves accountable to predetermined expectations
+  1. The business and engineering are in a partnership, not a "customership"
+   > Partners are mutually obligated to each other and hold themselves accountable to predetermined expectations
    
- ##### ii Know your customers
-   - You can't empathize with a customer you never hear from. You won't satisfy customers you don't empathize with
+  2. Know your customers
+   > You can't empathize with a customer you never hear from. You won't satisfy customers you don't empathize with
    
- ##### iii. Be loud or be wrong, never both
-   - Either be absolutely, objectively, verifiably correct; or don't speak in absolutes
+  3. Be loud or be wrong, never both
+   > Either be absolutely, objectively, verifiably correct; or don't speak in absolutes
 
 
