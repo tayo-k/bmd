@@ -48,11 +48,11 @@ The idea is to provide a visual, structured approach that will help with the tim
 - Prioritize mitigating risk to the product, as well as your own comfort in building and supporting it 
 
 Having this structure, guardrails and quality gates: 
-1. Collect yourselves into pods (or guilds) 
-2. Prepare to define specific **tasks** that can be collected into coherent **milestones**. 
+1. Collect yourselves into [pods](https://github.com/tayo-k/bmd/blob/gh-pages/content/build.md#pods) (or guilds) 
+2. Prepare to define specific **tasks** that can be collected into coherent [**milestones**](https://github.com/tayo-k/bmd/blob/gh-pages/content/build.md#milestones). 
 3. Work with your steering group to maintain alignment with strategic initiatives and objectives.
 
-### Pods
+## Pods
 Otherwise known as guilds in various parts of the industry. A pod is a group of subject-matter interested individuals in the organization. For example, a Front-End pod will be composed of individuals that are either experts or interested in the matters concerning the front-end components of the product; a Security pod will be composed of individuals interested in security matters affecting the product.
 
 - A pod will cross the boundaries of functional teams, or other traditional reporting structures. 
@@ -67,7 +67,7 @@ Pods provide a structure for engineers to freely ideate, experiment and coalesce
 
 They are an avenue for engineers to provide bottom-up leadership to their supervisors.
 
-### Milestones
+## Milestones
 The tasks that engineers deem necessary as pods should be grouped together and organized under milestones. Milestones are coherent, measurable and time-bound goals that the smaller units of work build up to. Milestones should be demonstrably linked to any larger strategic initiatives, if they exist. A milestone serves as an uplink to strategic targets and initiatives, from the work the pods are doing. This way, non-management folk have some ownership and stake in the strategic goals of senior management
 
 With these structures in place, we arrive at a process where
