@@ -1,6 +1,6 @@
 Better Managed Development
 ===========================
-##A framework for managing engineering culture
+##A method for managing engineering culture
 ### What We Define as “Engineering Culture”
 
 "Culture", in the context of software engineering is a question of _how_, not _what_, one builds software.
@@ -106,12 +106,12 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
    - Either be absolutely, objectively, verifiably correct; or don't speak in absolutes  
    
    ***
-#### 3. [Management supports how the product is built ](grow.md)
+#### 3. [Management supports how the product is built ](/content/grow.md)
  ##### i. Actively manage scope, capacity and timelines
    - Nothing will burn your engineers or leadership out faster than shifting scopes, capacity and timelines
    
  ##### ii. Actively engineer context sharing
-   - Everyone should know why they're doing whatever they're doing; clarify the connection between the past, present and future
+   - Everyone should know why they're doing what they're doing; clarify the connection between the past, present and future
    
  ##### iii. Actively engineer communication loops
    - Everyone should know how things are going; you should know how things are going
@@ -126,10 +126,10 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
    - A team full of generalists will become costly; cultivate depth in the specific skill-sets your team needs, in line with their interests
    
  ##### vii. Actively manage delivery risk
-   - Be aware of everything that'll negatively affect delivery and quality
+   -  For everything that could negatively affect delivery and quality: document, communicate and mitigate.
    
  ##### viii. Actively engineer goodwill
-   - Deliberately maintain a positive, healthy work environment and a motivated organization. Hard times will come,   and go over easier when the team's usually in a generally in a good mood
+   - Happy developer, happy life. Hard times will come, and go over easier when the team's usually in a generally in a good mood
    
  ##### ix. The Peter Principle is the enemy
    - Responsibility without adequate preparation for the responsibility is going to be disastrous 
