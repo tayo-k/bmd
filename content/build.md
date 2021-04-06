@@ -6,7 +6,7 @@ You build it; you own it
 
 Your engineering organization must be able to prioritize and help deliver the ingredients that are relevant to achieving your comfort towards creating the product. Removing obstacles to delivery – both tangible and intangible – is a key ingredient to maintaining a healthy engineering culture.
 
-Ingredients you can clearly itemize, justify and deliver towards timely delivery of a quality product is management's responsibility to support and provide.
+Ingredients that you can clearly itemize, justify and deliver towards timely delivery of a quality product, are management's responsibility to support and provide.
 
 Provided that you and your leadership want:
 
