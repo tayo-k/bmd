@@ -100,13 +100,13 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
  ##### iii. Actively engineer communication loops
    - Everyone should know how things are going; you should know how things are going.
  ##### iv. Actively manage goals
-   - Goals build muscle; goals build the organization. 
+   - Goals build muscle; muscle builds the organization. 
  ##### v. Actively engineer opportunities 
    - Goals without opportunities to deliver them are worthless. 
  ##### vi. Actively engineer skill-sets 
-   - A team full of generalists will become costly; cultivate depth in the specific skillsets your team needs.
+   - A team full of generalists will become costly; cultivate depth in the specific skill-sets your team needs, in line with their interests.
  ##### vii. Actively manage delivery risk
-   - Be aware of eveything that'll negatively affect delivery and quality
+   - Be aware of everything that'll negatively affect delivery and quality
  ##### viii. Actively engineer goodwill
    - Deliberately maintain a positive, healthy work environment and a motivated organization. Hard times will come,   and go over easier when the team's usually in a generally in a good mood.
  ##### ix. The Peter Principle is the enemy
