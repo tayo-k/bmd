@@ -62,17 +62,17 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
 ## Principles
 ### 1. Engineering culture is a distinct, quantifiable quality
 
- ##### i. Safeguard engineering culture as a distinct responsibility
-   - It should be one or more people's responsibility to deliberately monitor,influence and track the culture of the organization
+  1. Safeguard engineering culture as a distinct responsibility
+   > It should be one or more people's responsibility to deliberately monitor,influence and track the culture of the organization
    
- ##### ii. Quality gates and guardrails protect engineering culture
-   - Guardrails and quality gates must be installed to provide long-term safeguards for the culture of organization
+  2. Quality gates and guardrails protect engineering culture
+   > Guardrails and quality gates must be installed to provide long-term safeguards for the culture of organization
    
- ##### iii. Measure engineering culture along predefined guardrails and quality gates
-   - Guardrails and quality gates will offer the best opportunities to observe the culture
+  3. Measure engineering culture along predefined guardrails and quality gates
+   > Guardrails and quality gates will offer the best opportunities to observe the culture
    
- ##### iv. Autopilot wherever possible and practical
-   - Put as many guardrails as you can on autopilot - a system of checks and balances that can self-direct.
+  4. Autopilot wherever possible and practical
+   > Put as many guardrails as you can on autopilot - a system of checks and balances that can self-direct.
   
  ****
  
