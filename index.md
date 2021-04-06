@@ -76,34 +76,34 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
  ****
 ### 2. [Engineers own how the product is built](content/build.md)
 
- ##### 1. Understand the quality gates available to you
+ #### 1. Understand the quality gates available to you
    - Be aware of the stages your product goes through. They are opportunities to improve the quality and security of your product
    
- ##### 2.2 Building the product should be as straightforward as you can make it
+ #### 2.2 Building the product should be as straightforward as you can make it
    - You build it; you own it. You deserve the most frictionless engineering experience you can create for yourself
    
- ##### 2.3 Supporting the product should be as straightforward as you can make it 
+ #### 2.3 Supporting the product should be as straightforward as you can make it 
    - You build it; you own it. Make supporting the product as comfortable as you can for yourself
    
- ##### 2.4 Testing the product should be as straightforward as you can make it
+ #### 2.4 Testing the product should be as straightforward as you can make it
    - You build it; you own it. The business deserves guarantees of the quality of the product. Make it easy for yourself
    
- ##### 2.5 Upgrading the product should be as straightforward as you can make it 
+ #### 2.5 Upgrading the product should be as straightforward as you can make it 
    - You build it; you own it; expect your product to change as the business landscape changes. Make the changes easy for yourself
    
- ##### 2.6 Build the product to tell you what went wrong and how
+ #### 2.6 Build the product to tell you what went wrong and how
    - You build it; you own it. Spend as little time as possible wondering what went wrong or how
    
- ##### 2.7 Shift the guardrails as leftward as you can make them
+ #### 2.7 Shift the guardrails as leftward as you can make them
    - Do more to guardrail the quality of your product in earlier quality gates. You'll have less to do later when it's more costly
    
- ##### 2.8 Don't shrinkwrap your product
+ #### 2.8 Don't shrinkwrap your product
    - Requirements will change; timelines will change; avoid hard forks and prepare for your design to take a punch
    
- ##### 2.9 Seek the feedback of your customers and partners at key quality gates
+ #### 2.9 Seek the feedback of your customers and partners at key quality gates
    - Keep everyone informed; cover your rear
    
- ##### 2.10 Be loud or be wrong, never both
+ #### 2.10 Be loud or be wrong, never both
    - Either be absolutely, objectively, verifiably correct; or don't speak in absolutes  
    
    ***
