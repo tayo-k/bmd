@@ -60,7 +60,7 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
 - We believe that engineering culture involves more than just software engineering; including the relationship with the product organization; the relationship with senior management – all of these are facets relevant to a healthy engineering culture
 
 ## Principles
-#### 1. Engineering culture is a distinct, quantifiable quality
+### 1. Engineering culture is a distinct, quantifiable quality
 
  ##### i. Safeguard engineering culture as a distinct responsibility
    - It should be one or more people's responsibility to deliberately monitor,influence and track the culture of the organization
@@ -74,8 +74,9 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
  ##### iv. Autopilot wherever possible and practical
    - Put as many guardrails as you can on autopilot - a system of checks and balances that can self-direct.
  ****
-#### 2. [Engineers own how the product is built](content/build.md)
- ##### 2.1 Understand the quality gates available to you
+### 2. [Engineers own how the product is built](content/build.md)
+
+   ##### 2.1 Understand the quality gates available to you
    - Be aware of the stages your product goes through. They are opportunities to improve the quality and security of your product
    
  ##### 2.2 Building the product should be as straightforward as you can make it
@@ -106,7 +107,7 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
    - Either be absolutely, objectively, verifiably correct; or don't speak in absolutes  
    
    ***
-#### 3. [Leadership supports how the product is built ](content/grow.md)
+### 3. [Leadership supports how the product is built ](content/grow.md)
  ##### i. Actively manage scope, capacity and timelines
    - Nothing will burn your engineers or leadership out faster than shifting scopes, capacity and timelines
    
@@ -138,7 +139,7 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
    - Either be absolutely, objectively, verifiably correct; or don't speak in absolutes
 
    ***
-#### 4. [Everyone supports their partners and customers](content/partner.md)
+### 4. [Everyone supports their partners and customers](content/partner.md)
  ##### i. The business and engineering are in a partnership, not a "customership"
    - Partners are mutually obligated to each other and hold themselves accountable to predetermined expectations
    
