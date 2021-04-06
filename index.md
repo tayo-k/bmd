@@ -1,6 +1,6 @@
 Better Managed Development
 ===========================
-##A method for managing engineering culture
+## A method for managing engineering culture
 ### What We Define as “Engineering Culture”
 
 "Culture", in the context of software engineering is a question of _how_, not _what_, one builds software.
@@ -76,7 +76,7 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
  ****
 ### 2. [Engineers own how the product is built](content/build.md)
 
-  2.1 ##### Understand the quality gates available to you
+ ##### 1. Understand the quality gates available to you
    - Be aware of the stages your product goes through. They are opportunities to improve the quality and security of your product
    
  ##### 2.2 Building the product should be as straightforward as you can make it
