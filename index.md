@@ -60,7 +60,7 @@ It needs to be deliberately crafted, documented, exercised and most importantly,
 - We believe that engineering culture involves more than just software engineering; including the relationship with the product organization; the relationship with senior management – all of these are facets relevant to a healthy engineering culture
 
 ## Principles
-### 1. Engineering culture is a distinct, quantifiable quality
+### 1. [Engineering culture is a distinct, quantifiable quality](content/intro.md)
 
   1. **Safeguard engineering culture as a distinct responsibility**
    > It should be one or more people's responsibility to deliberately monitor,influence and track the culture of the organization
