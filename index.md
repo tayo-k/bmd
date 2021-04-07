@@ -39,26 +39,6 @@ The culture of software engineering shops has not been codified into shorthand. 
 
 When we say a shop is “Agile”, one knows exactly what to expect from that engineering organization. Operators in the software engineering industry deserve a measure of certainty, a set of principles that readily describe the culture of an engineering organization, on entering the team.
 
-##  Why We Need To Be Deliberate About Engineering Culture
-
-The only differences between a high-performing engineering shop and others boil down to two things:
- 1. Budget
- 2. Culture
-
-For the majority of the tech industry, their budgetary constraints are not going to change drastically. Most individuals in the engineering organization don’t have control over the money available to them.
-
-A relatively lower budget engineering organization can still execute effectively; deliver high-quality products; retain and attract great talent. All based solely on the strengths of a healthy, effective and deliberate engineering culture.
-
-Engineering culture is the one ingredient that is uniquely within the control of the engineering organization and its participants. 
-
-It needs to be deliberately crafted, documented, exercised and most importantly, safeguarded from other externalities to the engineering process and organization.
-
-- We believe software engineering culture is equally as important as the actual engineering of software itself. 	
- 	
-- We believe a set of standards should describe some minimums that underpin a healthy, effective and sustainable software engineering organization.
- 	
-- We believe that engineering culture involves more than just software engineering; including the relationship with the product organization; the relationship with senior management – all of these are facets relevant to a healthy engineering culture
-
 ## Principles
 ### 1. [Engineering culture is a distinct, quantifiable quality](content/intro.md)
 
