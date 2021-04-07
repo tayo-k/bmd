@@ -23,7 +23,7 @@ If you're looking forward to any outcome in your directs, partners, or your orga
 
 This should not be construed as a mechanism to micromanage. Rather, it involves the *measured* application of  pre-determined levers available only to the leadership cadre of the organization
 
-### The Guardrail Paradox and Active Leadership 
+### Active Leadership and The Guardrail Paradox
 Where active leadership encourages deliberate engagement and use of *leadership* tools and instruments, it may not be sustainable over a long enough period of time.
 
 This is where guardrails come in.
