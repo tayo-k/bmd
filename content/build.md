@@ -8,6 +8,8 @@ Your engineering organization must be able to prioritize and help deliver the in
 
 Ingredients that you can clearly itemize, justify and deliver towards timely delivery of a quality product, are management's responsibility to support and provide.
 
+Your leadership provides the what; you should own the conversation of the _how_.
+
 Provided that you and your leadership want:
 
 - A stable product
