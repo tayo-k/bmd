@@ -9,7 +9,7 @@ This way, we can define Engineering Culture as the implementation of a set of st
 
 Some specifics of culture will vary in some aspects from organization to organization; but there are universal and quantifiable guardrails that we believe are broadly applicable to any healthy engineering organization. 
 
-Defining these guardrails is the objective of the Better Managed Development manifesto. 
+Defining some of these guardrails is the objective of the Better Managed Development manifesto. 
 
 This manifesto supports three broad categories of actors in the organization:
 
@@ -35,9 +35,6 @@ This manifesto supports three broad categories of actors in the organization:
    - Understand the ethos and 	motivations of the engineering organization you’re partnered with
    - Partner more effectively with the organization based on a transparent and well-documented set of principles and practices.
 
-The culture of software engineering shops has not been codified into shorthand. Engineering culture has been dependent on either a handful of enigmatic leaders’ ability to effectively foster healthy and productive engineering organizations; or a select few “brass-ring” organizations remaining the sole purveyors of healthy engineering cultures. 
-
-When we say a shop is “Agile”, one knows exactly what to expect from that engineering organization. Operators in the software engineering industry deserve a measure of certainty, a set of principles that readily describe the culture of an engineering organization, on entering the team.
 
 ## Principles
 ### 1. [Engineering culture is a distinct, quantifiable quality](content/intro.md)
