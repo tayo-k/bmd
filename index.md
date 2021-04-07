@@ -3,7 +3,7 @@ Better Managed Development
 ## A method for managing engineering culture
 ### What We Define as “Engineering Culture”
 
-"Culture", in the context of software engineering is a question of _how_, not _what_, one builds software.
+"Culture", in the context of software engineering is a question of _how_, not _what_, one builds.
 
 This way, we can define Engineering Culture as the implementation of a set of standards, processes and practices that define _how_ we deliver software products; from concept to production deployment. 
 
@@ -83,7 +83,7 @@ This manifesto supports three broad categories of actors in the organization:
    > Keep everyone informed; cover your rear
    
  10. **Be loud or be wrong, never both**
-   > Either be absolutely, objectively, verifiably correct; or don't speak in absolutes  
+   > Either be objectively, verifiably correct; or don't speak in absolutes  
    
    ***
    
@@ -117,7 +117,7 @@ This manifesto supports three broad categories of actors in the organization:
    > Responsibility without adequate preparation for the responsibility is going to be disastrous 
    
  10. **Be loud or be wrong, never both**
-   > Either be absolutely, objectively, verifiably correct; or don't speak in absolutes
+   > Either be objectively, verifiably correct; or don't speak in absolutes
 
    ***
 ### 4. [We all support our partners towards delighting customers](content/partner.md)
@@ -128,6 +128,6 @@ This manifesto supports three broad categories of actors in the organization:
    > You can't empathize with a customer you never hear from. You won't satisfy customers you don't empathize with
    
   3. **Be loud or be wrong, never both**
-   > Either be absolutely, objectively, verifiably correct; or don't speak in absolutes
+   > Either be objectively, verifiably correct; or don't speak in absolutes
 
 
