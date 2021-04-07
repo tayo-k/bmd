@@ -5,7 +5,7 @@ Partner
 
 Customers and partners are the two different categories of organizations that the engineering organization is accountable to. Their expectations and impacts on the culture are also different.
 
-## Mutually Enabling Partnerships
+## Mutual Enablement Partnerships
 
 In a partnership, the partners
 
