@@ -123,7 +123,7 @@ When we say a shop is “Agile”, one knows exactly what to expect from that en
    > Either be absolutely, objectively, verifiably correct; or don't speak in absolutes
 
    ***
-### 4. [Everyone supports their partners and customers](content/partner.md)
+### 4. [We all support our partners towards delighting customers](content/partner.md)
   1. **The business and engineering are in a partnership, not a "customership"**
    > Partners are mutually obligated to each other and hold themselves accountable to predetermined expectations
    
