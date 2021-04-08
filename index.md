@@ -120,7 +120,7 @@ This manifesto supports three broad categories of actors in the organization:
    > Either be objectively, verifiably correct; or don't speak in absolutes
 
    ***
-### 4. [We all support our partners towards delighting customers](content/partner.md)
+### 4. [Partners support each other towards delighting customers](content/partner.md)
   1. **The business and engineering are in a partnership, not a "customership"**
    > Partners are mutually obligated to each other and hold themselves accountable to predetermined expectations
    
