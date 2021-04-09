@@ -4,11 +4,11 @@ You build it; you own it
 ### TL;DR: You deserve as seamless and comfortable an engineering experience as you can imagine
 ****
 
+**Your leadership provides the what; you should own the conversation of the _how_.**
+
 Your engineering organization must be able to prioritize and help deliver the ingredients that are relevant to achieving your comfort towards creating the product. Removing obstacles to delivery – both tangible and intangible – is a key ingredient to maintaining a healthy engineering culture.
 
 Ingredients that you can clearly itemize, justify and deliver towards timely delivery of a quality product, are management's responsibility to support and provide.
-
-Your leadership provides the what; you should own the conversation of the _how_.
 
 Provided that you and your leadership want:
 
@@ -76,3 +76,8 @@ With these structures in place, we arrive at a process where
 - Pods ideate and craft milestones they’re interested in picking up
 - They work with the steering group to allocate time and resources to the milestones
 - Continuously deliver milestones based on needs they’ve identified, under the guidance of their steering group.
+
+## The Role of Leadership
+Ownership comes with responsibility. You're still accountable to management for results. Milestones still need to be strategically aligned somehow. 
+
+Your ownership of the way the product is built must be able to answer specific questions as to _how_ exactly you're owning the way the product is built.
