@@ -81,3 +81,7 @@ With these structures in place, we arrive at a process where
 Ownership comes with responsibility. You're still accountable to management for results. Milestones still need to be strategically aligned somehow. 
 
 Your ownership of the way the product is built must be able to answer specific questions as to _how_ exactly you're owning the way the product is built.
+
+Sometimes, the values of your ownership will conflict and there will need to be trade-offs e.g. Making something easy to deploy may make it difficult to upgrade; making it easy to develop may make it difficult to test.
+
+Understand these trade-offs you're making and be ready to lay out the case to your leadership when called upon
