@@ -51,4 +51,13 @@ A steering group should consist of middle management and other stakeholders with
 - Allocate time and resources to tasks and milestones defined by pods
 - Help keep milestones aligned with larger strategic objectives and key results
 
+## The Role of Leadership
+In the context of BMD, leadership should be able to answer specific questions about what they are doing for specific guardrails.
 
+- "What are you doing to generate goodwill?"
+
+- "What are you doing to maintain consistent context sharing?"
+
+- "How are we enabling our partners?"
+
+These are examples that senior management, engineers and partners should be able to ask; leaders should have good answers.
