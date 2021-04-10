@@ -50,8 +50,8 @@ The idea is to provide a visual, structured approach that will help with the tim
 - Prioritize mitigating risk to the product, as well as your own comfort in building and supporting it 
 
 Having this structure, guardrails and quality gates: 
-1. Collect yourselves into [pods](/content/build.html#pods) (or guilds) 
-2. Prepare to define specific **tasks** that can be collected into coherent [milestones](/content/build.html#milestones). 
+1. Collect yourselves into [pods](/bmd/content/build.html#pods) (or guilds) 
+2. Prepare to define specific **tasks** that can be collected into coherent [milestones](/bmd/content/build.html#milestones). 
 3. Work with your steering group to maintain alignment with strategic initiatives and objectives.
 
 ## Pods
@@ -75,7 +75,7 @@ The tasks that engineers deem necessary as pods should be grouped together and o
 With these structures in place, we arrive at a process where
 - Pods ideate and craft milestones they’re interested in picking up
 - They work with the steering group to allocate time and resources to the milestones
-- Continuously deliver milestones based on needs they’ve identified, under the guidance of their [steering group](/content/grow.html#steering-group).
+- Continuously deliver milestones based on needs they’ve identified, under the guidance of their [steering group](/bmd/content/grow.html#steering-group).
 
 ## The Role of Leadership
 Ownership comes with responsibility. You're still accountable to management for results. Milestones still need to be strategically aligned somehow. 
