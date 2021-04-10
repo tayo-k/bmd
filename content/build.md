@@ -75,7 +75,7 @@ The tasks that engineers deem necessary as pods should be grouped together and o
 With these structures in place, we arrive at a process where
 - Pods ideate and craft milestones they’re interested in picking up
 - They work with the steering group to allocate time and resources to the milestones
-- Continuously deliver milestones based on needs they’ve identified, under the guidance of their [steering group]().
+- Continuously deliver milestones based on needs they’ve identified, under the guidance of their [steering group](content/grow.html#steering-group).
 
 ## The Role of Leadership
 Ownership comes with responsibility. You're still accountable to management for results. Milestones still need to be strategically aligned somehow. 
