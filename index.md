@@ -9,7 +9,9 @@ This way, we can define Engineering Culture as the implementation of a set of st
 
 Some specifics of culture will vary in some aspects from organization to organization; but there are universal and quantifiable guardrails that we believe are broadly applicable to any healthy engineering organization. 
 
-Defining some of these guardrails is the objective of the Better Managed Development manifesto. 
+The objective of this manifesto to provide a starting checklist that engineers, middle and senior engineering management should run through to answer the question:
+
+"What guardrails and quality gates are in place to secure our engineering culture?"
 
 This manifesto supports three broad categories of actors in the organization:
 
@@ -59,19 +61,19 @@ This manifesto supports three broad categories of actors in the organization:
    > Be aware of the stages your product goes through. They are opportunities to improve the quality and security of your product
    
  2. **Building the product should be as straightforward as you can make it**
-   > You build it; you own it. You deserve the most frictionless engineering experience you can create for yourself
+   > You deserve the most frictionless engineering experience you can create for yourself
    
  3. **Supporting the product should be as straightforward as you can make it** 
-   > You build it; you own it. Make supporting the product as comfortable as you can for yourself
+   > Make supporting the product as comfortable as you can for yourself
    
  4. **Testing the product should be as straightforward as you can make it**
-   > You build it; you own it. The business deserves guarantees of the quality of the product. Make it easy for yourself
+   > The business deserves guarantees of the quality of the product. Make testing and warrantying the product as straightforward as you can for yourself
    
  5. **Upgrading the product should be as straightforward as you can make it** 
-   > You build it; you own it; expect your product to change as the business landscape changes. Make the changes easy for yourself
+   > Expect your product to change as the business landscape changes. Make upgrades and deprecation as straightforward as you can for yourself. 
    
  6. **Build the product to tell you what went wrong and how**
-   > You build it; you own it. Spend as little time as possible wondering what went wrong or how
+   > Spend as little time as possible wondering what went wrong or how. Make root cause analysis as straightforward as you can for yourself.
    
  7. **Shift the guardrails as leftward as you can make them**
    > Do more to guardrail the quality of your product in earlier quality gates. You'll have less to do later when it's more costly
