@@ -1,4 +1,4 @@
-You build it; you own it
+Engineer
 =====
 
 ### TL;DR: You deserve as seamless and comfortable an engineering experience as you can imagine
@@ -50,8 +50,8 @@ The idea is to provide a visual, structured approach that will help with the tim
 - Prioritize mitigating risk to the product, as well as your own comfort in building and supporting it 
 
 Having this structure, guardrails and quality gates: 
-1. Collect yourselves into [pods](https://github.com/tayo-k/bmd/blob/gh-pages/content/build.md#pods) (or guilds) 
-2. Prepare to define specific **tasks** that can be collected into coherent [**milestones**](https://github.com/tayo-k/bmd/blob/gh-pages/content/build.md#milestones). 
+1. Collect yourselves into [pods](/content/build.md#pods) (or guilds) 
+2. Prepare to define specific **tasks** that can be collected into coherent [milestones](content/build.md#milestones). 
 3. Work with your steering group to maintain alignment with strategic initiatives and objectives.
 
 ## Pods
