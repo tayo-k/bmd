@@ -54,10 +54,11 @@ This manifesto supports three broad categories of actors in the organization:
    > Put as many guardrails as you can on autopilot - a system of checks and balances that can self-direct
  
   5. **Understand the quality gates available to you**
-    > Designate specific points in time or a process as opportunities to improve both people and products
+   > Designate specific points in time or a process as opportunities to improve both people and products
 
   6.  **Be loud or be wrong, never both**
    > Either be objectively, verifiably correct; or don't speak in absolutes  
+ 
  ****
  
 ### 2. [**Engineers:** Own how the product is built](content/build.md)
@@ -86,7 +87,7 @@ This manifesto supports three broad categories of actors in the organization:
  8. **Seek the feedback of your customers and partners at key quality gates**
    > Keep everyone informed; cover your rear
    
-   ***
+  ***
    
 ### 3. [**Leadership:** Support how the product is built ](content/grow.md)
 
@@ -116,7 +117,8 @@ This manifesto supports three broad categories of actors in the organization:
    
   9. **The Peter Principle is the enemy**
    > Responsibility without adequate preparation for the responsibility is going to be disastrous
-   ***
+  
+  ***
    
 ### 4. [**Partners:** Support each other towards delighting customers](content/partner.md)
   1. **The business and engineering are in a partnership, not a "customership"**
