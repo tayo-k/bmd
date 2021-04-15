@@ -117,6 +117,7 @@ This manifesto supports three broad categories of actors in the organization:
   9. **The Peter Principle is the enemy**
    > Responsibility without adequate preparation for the responsibility is going to be disastrous
    ***
+   
 ### 4. [**Partners:** Support each other towards delighting customers](content/partner.md)
   1. **The business and engineering are in a partnership, not a "customership"**
    > Partners are mutually obligated to each other and hold themselves accountable to predetermined expectations
