@@ -39,7 +39,7 @@ This manifesto supports three broad categories of actors in the organization:
 
 
 ## Principles
-### 1. [Engineering culture is a distinct, quantifiable quality](content/intro.md)
+### 1. [**Everyone:** Culture is a distinct, quantifiable quality](content/intro.md)
 
   1. **Safeguard engineering culture as a distinct responsibility**
    > It should be one or more people's responsibility to deliberately monitor,influence and track the culture of the organization
@@ -51,45 +51,44 @@ This manifesto supports three broad categories of actors in the organization:
    > Guardrails and quality gates will offer the best opportunities to observe the culture
    
   4. **Autopilot wherever possible and practical**
-   > Put as many guardrails as you can on autopilot - a system of checks and balances that can self-direct.
-  
+   > Put as many guardrails as you can on autopilot - a system of checks and balances that can self-direct
+ 
+  5. **Understand the quality gates available to you**
+    > Designate specific points in time or a process as opportunities to improve both people and products
+
+  6.  **Be loud or be wrong, never both**
+   > Either be objectively, verifiably correct; or don't speak in absolutes  
  ****
  
-### 2. [Engineers own how the product is built](content/build.md)
+### 2. [**Engineers:** Own how the product is built](content/build.md)
 
- 1. **Understand the quality gates available to you**
-   > Be aware of the stages your product goes through. They are opportunities to improve the quality and security of your product
-   
- 2. **Building the product should be as straightforward as you can make it**
+ 1. **Building the product should be as straightforward as you can make it**
    > You deserve the most frictionless engineering experience you can create for yourself
    
- 3. **Supporting the product should be as straightforward as you can make it** 
+ 2. **Supporting the product should be as straightforward as you can make it** 
    > Make supporting the product as comfortable as you can for yourself
    
- 4. **Testing the product should be as straightforward as you can make it**
+ 3. **Testing the product should be as straightforward as you can make it**
    > The business deserves guarantees of the quality of the product. Make testing and warrantying the product as straightforward as you can for yourself
    
- 5. **Upgrading the product should be as straightforward as you can make it** 
-   > Expect your product to change as the business landscape changes. Make upgrades and deprecation as straightforward as you can for yourself. 
+ 4. **Upgrading the product should be as straightforward as you can make it** 
+   > Expect your product to change as the business landscape changes. Make upgrades and deprecation as straightforward as you can for yourself 
    
- 6. **Build the product to tell you what went wrong and how**
-   > Spend as little time as possible wondering what went wrong or how. Make root cause analysis as straightforward as you can for yourself.
+ 5. **Build the product to tell you what went wrong and how**
+   > Spend as little time as possible wondering what went wrong or how. Make root cause analysis as straightforward as you can for yourself
    
- 7. **Shift the guardrails as leftward as you can make them**
+ 6. **Shift the guardrails as leftward as you can make them**
    > Do more to guardrail the quality of your product in earlier quality gates. You'll have less to do later when it's more costly
    
- 8. **Don't shrinkwrap your product**
+ 7. **Don't shrinkwrap your product**
    > Requirements will change; timelines will change; avoid hard forks and prepare for your design to take a punch
    
- 9. **Seek the feedback of your customers and partners at key quality gates**
+ 8. **Seek the feedback of your customers and partners at key quality gates**
    > Keep everyone informed; cover your rear
-   
- 10. **Be loud or be wrong, never both**
-   > Either be objectively, verifiably correct; or don't speak in absolutes  
    
    ***
    
-### 3. [Leadership supports how the product is built ](content/grow.md)
+### 3. [**Leadership:** Support how the product is built ](content/grow.md)
 
   1. **Actively manage scope, capacity and timelines**
    > Nothing will burn your engineers or leadership out faster than shifting scopes, capacity and timelines
@@ -116,20 +115,13 @@ This manifesto supports three broad categories of actors in the organization:
    > Happy developer, happy life. Hard times will come, and go over easier when the team's usually in a generally in a good mood
    
   9. **The Peter Principle is the enemy**
-   > Responsibility without adequate preparation for the responsibility is going to be disastrous 
-   
- 10. **Be loud or be wrong, never both**
-   > Either be objectively, verifiably correct; or don't speak in absolutes
-
+   > Responsibility without adequate preparation for the responsibility is going to be disastrous
    ***
-### 4. [Partners support each other towards delighting customers](content/partner.md)
+### 4. [**Partners:** Support each other towards delighting customers](content/partner.md)
   1. **The business and engineering are in a partnership, not a "customership"**
    > Partners are mutually obligated to each other and hold themselves accountable to predetermined expectations
    
   2. **Know your customers**
    > You can't empathize with a customer you never hear from. You won't satisfy customers you don't empathize with
    
-  3. **Be loud or be wrong, never both**
-   > Either be objectively, verifiably correct; or don't speak in absolutes
-
 
